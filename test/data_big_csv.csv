@@ -1,0 +1,11 @@
+vehicle_id,engine_capacity,fuel_consumption,maximum_load
+2,200,fuel cons. 25,14
+4,220l,55,22
+n.8,280,69,16 ton
+16,100,34l,24
+32,450,56,12
+64,230l,44,26
+128,360l,30,16t
+line 256,400,40l,24
+512,eng_480,60,tons 18
+1024,500,80,30
